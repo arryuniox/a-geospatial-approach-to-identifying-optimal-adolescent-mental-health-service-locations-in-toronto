@@ -35,6 +35,8 @@ python "Python Files\preprocessing.py"
 python "Python Files\clustering_and_radius_search.py"
 ```
 
+DOI: [10.17975/sfj-2025-014](https://doi.org/10.17975/sfj-2025-014)
+
 **Working with Google Drive / Colab**
 - To run the notebooks in Google Colab with your data stored in Google Drive:
 	1. Upload the folder `Mental Health Location BDC 2024 Datafiles` (the same folder structure used in the notebooks) to your Google Drive root.
