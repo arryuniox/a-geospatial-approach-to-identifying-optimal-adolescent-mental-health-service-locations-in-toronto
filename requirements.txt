@@ -1,0 +1,20 @@
+geopandas==0.13.0
+pandas>=1.5.3
+numpy>=1.24.0
+scikit-learn>=1.2.2
+shapely>=2.0.1
+matplotlib>=3.6.2
+geopy>=2.3.0
+folium>=0.14.0
+networkx>=3.1
+openpyxl>=3.1.2
+pyproj>=3.4.1
+fiona>=1.9.4
+rtree>=1.0.1
+scipy>=1.10.1
+xlrd>=2.0.1
+jupyter>=1.0.0
+
+# Notes:
+# If you use Anaconda/conda, installing geopandas and its dependencies via conda-forge is often much easier: `conda install -c conda-forge geopandas`.
+# Some OS-specific binary dependencies (GDAL/Fiona/GEOS) may require system packages or use of conda to install cleanly.

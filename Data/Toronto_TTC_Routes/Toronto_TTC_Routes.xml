@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract/>
+            <purpose>Toronto TTC Subway, Metro, Tram, Streetcar, Light rail, and Bus routes.
+
+Data accessed November 19th, 2018: https://transitfeeds.com/p/ttc/33.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>TTC</themekey>
+                <themekey>Toronto</themekey>
+                <themekey>Transit</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
