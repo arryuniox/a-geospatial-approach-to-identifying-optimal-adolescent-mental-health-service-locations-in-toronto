@@ -1,5 +1,7 @@
 # a geospatial approach to identifying optimal adolescent mental health service locations in toronto
 
+DOI: [10.17975/sfj-2025-014](https://doi.org/10.17975/sfj-2025-014)
+
 **Usage**
 - **Purpose**: This repository contains preprocessing and clustering scripts and Jupyter notebooks used to identify prioritized neighborhoods for adolescent mental health services in Toronto.
 
@@ -34,8 +36,6 @@ Run a script from PowerShell (after activating the venv):
 python "Python Files\preprocessing.py"
 python "Python Files\clustering_and_radius_search.py"
 ```
-
-DOI: [10.17975/sfj-2025-014](https://doi.org/10.17975/sfj-2025-014)
 
 **Working with Google Drive / Colab**
 - To run the notebooks in Google Colab with your data stored in Google Drive:
